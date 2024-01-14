@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88bc646c.css",
-    "main.js": "/static/js/main.ed773270.js",
+    "main.js": "/static/js/main.62705d6d.js",
     "static/media/nebula_verse.gif": "/static/media/nebula_verse.05a0096e1d06f31d1fc8.gif",
     "static/media/rest_api.gif": "/static/media/rest_api.97b6da6efd96503c1d01.gif",
     "static/media/q_learning.gif": "/static/media/q_learning.89f9eaf4c547498d908a.gif",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.88bc646c.css",
-    "static/js/main.ed773270.js"
+    "static/js/main.62705d6d.js"
   ]
 }
