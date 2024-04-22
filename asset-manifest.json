@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.88bc646c.css",
-    "main.js": "/static/js/main.9f290c73.js",
-    "static/media/nebula_verse.gif": "/static/media/nebula_verse.05a0096e1d06f31d1fc8.gif",
-    "static/media/rest_api.gif": "/static/media/rest_api.97b6da6efd96503c1d01.gif",
-    "static/media/q_learning.gif": "/static/media/q_learning.89f9eaf4c547498d908a.gif",
-    "static/media/Bear market.png": "/static/media/Bear market.cbd937c10d7c91db14da.png",
+    "main.js": "/static/js/main.8bb21655.js",
+    "static/media/nebula_verse.png": "/static/media/nebula_verse.ade99bfd4a3e9ffab2e9.png",
+    "static/media/rest_api.png": "/static/media/rest_api.5816f292a5b6278acb5d.png",
+    "static/media/q_learning.png": "/static/media/q_learning.c0dff9125d2c2e0f79b7.png",
     "static/media/nft.png": "/static/media/nft.80db67e5c06bc73a5ac4.png",
-    "static/media/keeper_app.gif": "/static/media/keeper_app.f950f7617de24b891ac3.gif",
+    "static/media/Bear market.png": "/static/media/Bear market.e1c80895e446fa992c4b.png",
     "static/media/secrets.jpg": "/static/media/secrets.62db7ed97c8fc30b78cb.jpg",
+    "static/media/keeper_app.png": "/static/media/keeper_app.5fc59b05dc22346fb224.png",
     "static/media/cant_stop.webp": "/static/media/cant_stop.6f4d7f0c39444c460c5f.webp",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.88bc646c.css",
-    "static/js/main.9f290c73.js"
+    "static/js/main.8bb21655.js"
   ]
 }
