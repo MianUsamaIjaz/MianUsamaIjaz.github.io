@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.88bc646c.css",
-    "main.js": "/static/js/main.4a598402.js",
+    "main.js": "/static/js/main.9f290c73.js",
     "static/media/nebula_verse.gif": "/static/media/nebula_verse.05a0096e1d06f31d1fc8.gif",
     "static/media/rest_api.gif": "/static/media/rest_api.97b6da6efd96503c1d01.gif",
     "static/media/q_learning.gif": "/static/media/q_learning.89f9eaf4c547498d908a.gif",
+    "static/media/Bear market.png": "/static/media/Bear market.cbd937c10d7c91db14da.png",
     "static/media/nft.png": "/static/media/nft.80db67e5c06bc73a5ac4.png",
     "static/media/keeper_app.gif": "/static/media/keeper_app.f950f7617de24b891ac3.gif",
     "static/media/secrets.jpg": "/static/media/secrets.62db7ed97c8fc30b78cb.jpg",
@@ -13,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.88bc646c.css",
-    "static/js/main.4a598402.js"
+    "static/js/main.9f290c73.js"
   ]
 }
